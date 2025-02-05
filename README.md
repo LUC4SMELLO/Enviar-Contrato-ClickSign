@@ -66,6 +66,16 @@ Para criar um novo signatario ele usa o arquivo "dados.txt" que vem de uma plani
 ```
 
 ---
+## **Arquivo dados.txt**
+- Como funciona as linhas do arquivo:
+
+   **1º** - email do cliente <br>
+   **2º** - nome do cliente <br>
+   **3º** - cpf do cliente <br>
+   **4º** - código do cliente (cta) <br>
+   **5º** - código do vendedor
+
+---
 
 ## **Como Executar**
 
