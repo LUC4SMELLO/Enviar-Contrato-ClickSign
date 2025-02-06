@@ -4,7 +4,7 @@
 
 O código "refaz" os passos de como alguem enviaria o contrato pelo clicksign, de uma forma mais rápida e com muito menos sucessão a falhas. Ele usa imagens para se localizar em vez de pontos fixos na tela.
 
-Para criar um novo signatario ele usa o arquivo "dados.txt" que vem de uma planiha excel externa, ele é gerado junto com o contrato e vem direto para a pasta do código.
+Para criar um novo signatario ele usa o arquivo "dados.txt" que vem de um macro em uma planiha excel externa, ele é gerado junto com o contrato e vem direto para a pasta do código.
 
 
 ---
